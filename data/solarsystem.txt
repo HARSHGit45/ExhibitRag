@@ -1,0 +1,4452 @@
+====================================
+Name: Moon
+Type: Moon
+Orbits planet: terre
+Mean Radius: 1737.0 km
+Gravity: 1.62 m/s²
+Density: 3.344 g/cm³
+Escape Velocity: 2380.0 m/s
+Orbital Period: 27.3217 days
+Mass: 7.346 × 10^22 kg
+
+====================================
+Name: Phobos
+Type: Moon
+Orbits planet: mars
+Mean Radius: 11.1 km
+Gravity: 0.0057 m/s²
+Density: 1.872 g/cm³
+Escape Velocity: 11.39 m/s
+Orbital Period: 0.31891 days
+Mass: 1.06 × 10^16 kg
+Discovered By: Asaph Hall
+
+====================================
+Name: Deimos
+Type: Moon
+Orbits planet: mars
+Mean Radius: 6.2 km
+Gravity: 0.003 m/s²
+Density: 1.471 g/cm³
+Escape Velocity: 5.556 m/s
+Orbital Period: 1.26244 days
+Mass: 1.4762 × 10^15 kg
+Discovered By: Asaph Hall
+
+====================================
+Name: Io
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1821.5 km
+Gravity: 1.79 m/s²
+Density: 3.5271 g/cm³
+Orbital Period: 1.76914 days
+Mass: 8.932 × 10^22 kg
+Discovered By: Galileo Galilei
+
+====================================
+Name: Europa
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1560.8 km
+Gravity: 1.31 m/s²
+Density: 3.0129 g/cm³
+Orbital Period: 3.55118 days
+Mass: 4.8 × 10^22 kg
+Discovered By: Galileo Galilei
+
+====================================
+Name: Ganymede
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2631.2 km
+Gravity: 1.428 m/s²
+Density: 1.9376 g/cm³
+Orbital Period: 7.15455 days
+Mass: 1.4819 × 10^23 kg
+Discovered By: Galileo Galilei
+
+====================================
+Name: Callisto
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2410.3 km
+Gravity: 1.235 m/s²
+Density: 1.8338 g/cm³
+Orbital Period: 16.68902 days
+Mass: 1.0759 × 10^23 kg
+Discovered By: Galileo Galilei
+
+====================================
+Name: Amalthea
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 84.0 km
+Gravity: 0.02 m/s²
+Density: 0.857 g/cm³
+Orbital Period: 0.49818 days
+Mass: 7.5 × 10^18 kg
+Discovered By: E. Barnard
+
+====================================
+Name: Himalia
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 85.0 km
+Gravity: 0.062 m/s²
+Density: 2.6 g/cm³
+Orbital Period: 250.5662 days
+Mass: 9.5 × 10^18 kg
+Discovered By: C. Perrine
+
+====================================
+Name: Elara
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 40.0 km
+Gravity: 0.031 m/s²
+Density: 2.6 g/cm³
+Orbital Period: 259.6528 days
+Mass: 8.0 × 10^17 kg
+Discovered By: C. Perrine
+
+====================================
+Name: Pasiphae
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 18.0 km
+Gravity: 0.022 m/s²
+Density: 2.6 g/cm³
+Orbital Period: 743.6 days
+Mass: 3.0 × 10^17 kg
+Discovered By: P. Melotte
+
+====================================
+Name: Sinope
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 14.0 km
+Gravity: 0.014 m/s²
+Density: 2.6 g/cm³
+Orbital Period: 758.9 days
+Mass: 8.0 × 10^16 kg
+Discovered By: Seth Barnes Nicholson
+
+====================================
+Name: Lysithea
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 12.0 km
+Gravity: 0.013 m/s²
+Density: 2.6 g/cm³
+Orbital Period: 259.22 days
+Mass: 8.0 × 10^16 kg
+Discovered By: Seth Barnes Nicholson
+
+====================================
+Name: Carme
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 15.0 km
+Gravity: 0.017 m/s²
+Density: 2.6 g/cm³
+Orbital Period: 734.2 days
+Mass: 1.0 × 10^17 kg
+Discovered By: Seth Barnes Nicholson
+
+====================================
+Name: Ananke
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 10.0 km
+Gravity: 0.01 m/s²
+Density: 2.6 g/cm³
+Orbital Period: 629.8 days
+Mass: 4.0 × 10^16 kg
+Discovered By: Seth Barnes Nicholson
+
+====================================
+Name: Leda
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 5.0 km
+Gravity: 0.0073 m/s²
+Density: 2.6 g/cm³
+Orbital Period: 240.92 days
+Mass: 6.0 × 10^17 kg
+Discovered By: Charles Kowa
+
+====================================
+Name: Thebe
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 49.0 km
+Gravity: 0.02 m/s²
+Density: 3.0 g/cm³
+Orbital Period: 0.6745 days
+Mass: 8.0 × 10^17 kg
+Discovered By: Stephen P. Synnott
+
+====================================
+Name: Adrastea
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 8.0 km
+Gravity: 0.002 m/s²
+Density: 3.0 g/cm³
+Orbital Period: 0.29826 days
+Mass: 2.0 × 10^15 kg
+Discovered By: David C. Jewitt, G. E. Danielson
+
+====================================
+Name: Metis
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 22.0 km
+Gravity: 0.005 m/s²
+Density: 3.0 g/cm³
+Orbital Period: 0.29478 days
+Mass: 1.0 × 10^17 kg
+Discovered By: Stephen P. Synnott
+
+====================================
+Name: Callirrhoe
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 4.0 km
+Gravity: 0.0031 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 758.8 days
+Mass: 8.7 × 10^14 kg
+Discovered By: J.V. Scott
+
+====================================
+Name: Themisto
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 4.0 km
+Gravity: 0.0029 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 130.02 days
+Mass: 6.9 × 10^14 kg
+Discovered By: Charles Kowal 1975 - Scott S. Sheppard, David C. Jewitt 2000
+
+====================================
+Name: Megaclite
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.7 km
+Density: 1.5 g/cm³
+Orbital Period: 752.8 days
+Mass: 2.1 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Taygete
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.5 km
+Density: 1.0 g/cm³
+Orbital Period: 732.2 days
+Mass: 1.6 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Chaldene
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.9 km
+Density: 1.0 g/cm³
+Orbital Period: 723.8 days
+Mass: 7.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Harpalyke
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.2 km
+Density: 1.0 g/cm³
+Orbital Period: 623.3 days
+Mass: 1.2 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Kalyke
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.6 km
+Density: 1.0 g/cm³
+Orbital Period: 743.0 days
+Mass: 1.9 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Iocaste
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.6 km
+Density: 1.0 g/cm³
+Orbital Period: 631.5 days
+Mass: 1.9 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Erinome
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.6 km
+Density: 1.0 g/cm³
+Orbital Period: 728.3 days
+Mass: 4.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Isonoe
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.9 km
+Density: 1.0 g/cm³
+Orbital Period: 725.5 days
+Mass: 7.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Praxidike
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 3.4 km
+Density: 1.0 g/cm³
+Orbital Period: 625.3 days
+Mass: 4.3 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Autonoe
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Gravity: 0.0015 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 715.4 days
+Mass: 9.0 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Thyone
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Gravity: 0.0015 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 627.3 days
+Mass: 9.0 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Hermippe
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Gravity: 0.0015 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 633.9 days
+Mass: 9.0 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Aitne
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.5 km
+Gravity: 0.0012 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 730.2 days
+Mass: 4.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Eurydome
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.5 km
+Gravity: 0.0012 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 723.9 days
+Mass: 4.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Euanthe
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.5 km
+Gravity: 0.0012 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 620.6 days
+Mass: 4.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Euporie
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 553.1 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Orthosie
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Gravity: 0.00081 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 622.6 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Sponde
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Gravity: 0.00081 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 748.3 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Kale
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Gravity: 0.00081 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 729.5 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Pasithee
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Gravity: 0.00081 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 716.3 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Hegemone
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Density: 1.0 g/cm³
+Orbital Period: 739.6 days
+Mass: 4.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Mneme
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Density: 1.0 g/cm³
+Orbital Period: 620.0 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Aoede
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Density: 1.0 g/cm³
+Orbital Period: 761.5 days
+Mass: 9.0 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Thelxinoe
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Density: 1.0 g/cm³
+Orbital Period: 628.1 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Arche
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.5 km
+Gravity: 0.0012 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 762.7 days
+Mass: 4.15 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Kallichore
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Density: 1.0 g/cm³
+Orbital Period: 764.7 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Helike
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 4.0 km
+Density: 1.0 g/cm³
+Orbital Period: 634.8 days
+Mass: 9.0 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Carpo
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 3.0 km
+Density: 1.0 g/cm³
+Orbital Period: 456.1 days
+Mass: 4.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Eukelade
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 4.0 km
+Density: 1.0 g/cm³
+Orbital Period: 746.4 days
+Mass: 9.0 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Cyllene
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 737.8 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Kore
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 779.2 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Herse
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Density: 1.0 g/cm³
+Orbital Period: 717.3 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: S/2003 J 2
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 982.5 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Eupheme
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 504.0 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: S/2003 J 4
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 723.2 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Eirene
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Density: 1.0 g/cm³
+Orbital Period: 759.7 days
+Mass: 9.0 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: S/2003 J 9
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 0.5 km
+Density: 1.0 g/cm³
+Orbital Period: 683.0 days
+Mass: 1.5 × 10^12 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: S/2003 J 10
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 767.0 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: S/2003 J 12
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 0.5 km
+Density: 1.0 g/cm³
+Orbital Period: 533.3 days
+Mass: 1.0 × 10^12 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Philophrosyne
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 668.4 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: S/2003 J 16
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 595.4 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: S/2003 J 18
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 606.3 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: S/2003 J 19
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 701.3 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: S/2003 J 23
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Gravity: 0.00081 m/s²
+Density: 1.0 g/cm³
+Orbital Period: 759.7 days
+Mass: 1.5 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Mimas
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 396.4 km
+Density: 1.1626 g/cm³
+Orbital Period: 0.94 days
+Mass: 3.79 × 10^19 kg
+Discovered By: William Herschel
+
+====================================
+Name: Enceladus
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 504.2 km
+Density: 1.6096 g/cm³
+Orbital Period: 1.37 days
+Mass: 1.08 × 10^20 kg
+Discovered By: William Herschel
+
+====================================
+Name: Tethys
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1066.0 km
+Density: 0.9846 g/cm³
+Orbital Period: 1.89 days
+Mass: 6.18 × 10^20 kg
+Discovered By: Jean-Dominique Cassini
+
+====================================
+Name: Dione
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1123.4 km
+Density: 1.4781 g/cm³
+Orbital Period: 2.737 days
+Mass: 1.095 × 10^21 kg
+Discovered By: Jean-Dominique Cassini
+
+====================================
+Name: Rhea
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1528.6 km
+Density: 1.2345 g/cm³
+Orbital Period: 4.518 days
+Mass: 2.3 × 10^21 kg
+Discovered By: Jean-Dominique Cassini
+
+====================================
+Name: Titan
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2575.0 km
+Density: 1.8814 g/cm³
+Orbital Period: 15.95 days
+Mass: 1.3452 × 10^23 kg
+Discovered By: Christian Huygens
+
+====================================
+Name: Hyperion
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 266.0 km
+Density: 0.55 g/cm³
+Orbital Period: 21.28 days
+Mass: 5.6 × 10^18 kg
+Discovered By: William Cranch Bond, George Phillips Bond
+
+====================================
+Name: Iapetus
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1471.2 km
+Density: 1.083 g/cm³
+Orbital Period: 79.33 days
+Mass: 1.805 × 10^21 kg
+Discovered By: Jean-Dominique Cassini
+
+====================================
+Name: Phoebe
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 214.4 km
+Density: 1.64 g/cm³
+Orbital Period: 548.2 days
+Mass: 8.292 × 10^18 kg
+Discovered By: William Henry Pickering
+
+====================================
+Name: Janus
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 89.5 km
+Density: 0.63 g/cm³
+Orbital Period: 0.7 days
+Mass: 1.9 × 10^18 kg
+Discovered By: Audouin Dollfus
+
+====================================
+Name: Epimetheus
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 113.4 km
+Density: 0.64 g/cm³
+Orbital Period: 0.69 days
+Mass: 5.3 × 10^17 kg
+Discovered By: Richard L. Walker
+
+====================================
+Name: Helene
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 17.6 km
+Density: 1.3 g/cm³
+Orbital Period: 2.736 days
+Mass: 1.1 × 10^10 kg
+Discovered By: Pierre Laques, Raymond Despiau, Jean Lecacheux
+
+====================================
+Name: Telesto
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 12.4 km
+Density: 0.5 g/cm³
+Orbital Period: 1.89 days
+Mass: 1.0 × 10^16 kg
+Discovered By: Bradford A. Smith, Harold J. Reitsema, Stephen M. Larson, John W. Fountain
+
+====================================
+Name: Calypso
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 10.7 km
+Density: 0.5 g/cm³
+Orbital Period: 1.89 days
+Mass: 6.5 × 10^15 kg
+Discovered By: Dan Pascu, P. Kenneth Seidelmann, William A. Baum, Douglas Currie
+
+====================================
+Name: Atlas
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 15.1 km
+Density: 0.5 g/cm³
+Orbital Period: 0.602 days
+Mass: 7.0 × 10^15 kg
+Discovered By: Richard J. Terrile
+
+====================================
+Name: Prometheus
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 43.1 km
+Density: 0.48 g/cm³
+Orbital Period: 0.613 days
+Mass: 1.6 × 10^17 kg
+Discovered By: Stewart A. Collins, D. Carlson
+
+====================================
+Name: Pandora
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 40.7 km
+Density: 0.49 g/cm³
+Orbital Period: 0.629 days
+Mass: 1.4 × 10^17 kg
+Discovered By: Stewart A. Collins
+
+====================================
+Name: Pan
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 14.1 km
+Density: 0.42 g/cm³
+Orbital Period: 0.575 days
+Mass: 4.95 × 10^15 kg
+Discovered By: Mark R. Showalter
+
+====================================
+Name: Ymir
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 9.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1315.4 days
+Mass: 3.97 × 10^15 kg
+Discovered By: Brett J. Gladman
+
+====================================
+Name: Paaliaq
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 10.0 km
+Density: 2.3 g/cm³
+Orbital Period: 686.9 days
+Mass: 7.25 × 10^15 kg
+Discovered By: John J. Kavelaars, Brett J. Gladman
+
+====================================
+Name: Tarvos
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 7.0 km
+Density: 2.3 g/cm³
+Orbital Period: 926.2 days
+Mass: 2.3 × 10^15 kg
+Discovered By: John J. Kavelaars, Brett J. Gladman
+
+====================================
+Name: Ijiraq
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 5.0 km
+Density: 2.3 g/cm³
+Orbital Period: 451.4 days
+Mass: 1.18 × 10^15 kg
+Discovered By: John J. Kavelaars, Brett J. Gladman
+
+====================================
+Name: Suttungr
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1016.7 days
+Mass: 2.3 × 10^14 kg
+Discovered By: John J. Kavelaars, Brett J. Gladman
+
+====================================
+Name: Kiviuq
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 7.0 km
+Density: 2.3 g/cm³
+Orbital Period: 449.2 days
+Mass: 2.79 × 10^15 kg
+Discovered By: Brett J. Gladman
+
+====================================
+Name: Mundilfari
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 952.6 days
+Mass: 2.3 × 10^14 kg
+Discovered By: John J. Kavelaars, Brett J. Gladman
+
+====================================
+Name: Albiorix
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 13.0 km
+Density: 2.3 g/cm³
+Orbital Period: 783.5 days
+Mass: 2.23 × 10^16 kg
+Discovered By: John J. Kavelaars, Brett J. Gladman
+
+====================================
+Name: Skathi
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 728.2 days
+Mass: 3.5 × 10^14 kg
+Discovered By: John J. Kavelaars, Brett J. Gladman
+
+====================================
+Name: Erriapus
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 4.0 km
+Density: 2.3 g/cm³
+Orbital Period: 871.2 days
+Mass: 6.8 × 10^14 kg
+Discovered By: John J. Kavelaars, Brett J. Gladman
+
+====================================
+Name: Siarnaq
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 16.0 km
+Density: 2.3 g/cm³
+Orbital Period: 895.6 days
+Mass: 4.35 × 10^16 kg
+Discovered By: John J. Kavelaars, Brett J. Gladman
+
+====================================
+Name: Thrymr
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1094.3 days
+Mass: 2.3 × 10^14 kg
+Discovered By: John J. Kavelaars, Brett J. Gladman
+
+====================================
+Name: Narvi
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1003.9 days
+Mass: 2.3 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna
+
+====================================
+Name: Methone
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.6 km
+Density: 0.5 g/cm³
+Orbital Period: 1.01 days
+Mass: 2.0 × 10^13 kg
+Discovered By: Carolyn C. Porco, Sébastien Charnoz
+
+====================================
+Name: Pallene
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.5 km
+Density: 0.5 g/cm³
+Orbital Period: 1.14 days
+Mass: 6.0 × 10^13 kg
+Discovered By: Carolyn C. Porco, Sébastien Charnoz
+
+====================================
+Name: Polydeuces
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Density: 0.5 g/cm³
+Orbital Period: 2.737 days
+Mass: 1.0 × 10^13 kg
+Discovered By: Carolyn C. Porco
+
+====================================
+Name: Daphnis
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.8 km
+Density: 0.34 g/cm³
+Orbital Period: 0.594 days
+Mass: 1.0 × 10^14 kg
+Discovered By: Carolyn C. Porco
+
+====================================
+Name: Aegir
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1116.5 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Bebhionn
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 834.8 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Bergelmir
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1005.9 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Bestla
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1083.6 days
+Mass: 2.3 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Farbauti
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1086.1 days
+Mass: 9.0 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Fenrir
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1260.3 days
+Mass: 5.0 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Fornjot
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1490.9 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Hati
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1038.7 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Hyrrokkin
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 4.0 km
+Density: 2.3 g/cm³
+Orbital Period: 931.8 days
+Mass: 3.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Kari
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1233.6 days
+Mass: 2.3 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Loge
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1312.0 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Skoll
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 878.3 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Surtur
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1297.7 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Anthe
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.0 km
+Density: 0.5 g/cm³
+Orbital Period: 1.04 days
+Mass: 5.0 × 10^12 kg
+Discovered By: Carolyn C. Porco, l'équipe Cassini
+
+====================================
+Name: Jarnsaxa
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 964.7 days
+Mass: 1.0 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Greip
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 921.2 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Tarqeq
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 887.5 days
+Mass: 2.3 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: Aegaeon
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 0.5 km
+Density: 0.5 g/cm³
+Orbital Period: 0.808 days
+Mass: 1.0 × 10^11 kg
+Discovered By: Carolyn C. Porco
+
+====================================
+Name: S/2004 S 7
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1103.0 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: S/2004 S 12
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1048.0 days
+Mass: 9.0 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: S/2004 S 13
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 906.0 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: S/2004 S 17
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Density: 2.3 g/cm³
+Orbital Period: 986.0 days
+Mass: 5.0 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: S/2006 S 1
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 970.0 days
+Mass: 1.0 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: S/2006 S 3
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1142.0 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: S/2007 S 2
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 800.0 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: S/2007 S 3
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Density: 2.3 g/cm³
+Orbital Period: 1100.0 days
+Mass: 1.5 × 10^14 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt, Jan Kleyna, Brian G. Marsden
+
+====================================
+Name: S/2009 S 1
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 0.3 km
+Density: 1.0 g/cm³
+Orbital Period: 0.4715 days
+Mass: 1.0 × 10^11 kg
+Discovered By: Carolyn C. Porco
+
+====================================
+Name: Ariel
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 581.1 km
+Density: 1.59 g/cm³
+Orbital Period: 2.52038 days
+Mass: 12.9 × 10^20 kg
+Discovered By: William Lassell
+
+====================================
+Name: Umbriel
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 584.7 km
+Density: 1.541 g/cm³
+Orbital Period: 4.14418 days
+Mass: 12.2 × 10^20 kg
+Discovered By: William Lassell
+
+====================================
+Name: Titania
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 788.9 km
+Density: 1.714 g/cm³
+Orbital Period: 8.70587 days
+Mass: 34.2 × 10^20 kg
+Discovered By: William Herschel
+
+====================================
+Name: Oberon
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 761.4 km
+Density: 1.63 g/cm³
+Orbital Period: 13.46323 days
+Mass: 28.8 × 10^20 kg
+Discovered By: William Herschel
+
+====================================
+Name: Miranda
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 240.0 km
+Density: 1.2 g/cm³
+Orbital Period: 1.41348 days
+Mass: 6.6 × 10^19 kg
+Discovered By: Gerard Kuiper
+
+====================================
+Name: Cordelia
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 20.0 km
+Density: 1.3 g/cm³
+Orbital Period: 0.33503 days
+Mass: 4.5 × 10^16 kg
+Discovered By: Richard J. Terrile
+
+====================================
+Name: Ophelia
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 21.0 km
+Density: 1.3 g/cm³
+Orbital Period: 0.3764 days
+Mass: 5.4 × 10^16 kg
+Discovered By: Richard J. Terrile
+
+====================================
+Name: Bianca
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 27.0 km
+Density: 1.3 g/cm³
+Orbital Period: 0.43458 days
+Mass: 9.2 × 10^16 kg
+Discovered By: Bradford A. Smith
+
+====================================
+Name: Cressida
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 41.0 km
+Density: 1.3 g/cm³
+Orbital Period: 0.46357 days
+Mass: 3.4 × 10^17 kg
+Discovered By: Stephen P. Synnott
+
+====================================
+Name: Desdemona
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 35.0 km
+Density: 1.3 g/cm³
+Orbital Period: 0.47365 days
+Mass: 1.8 × 10^17 kg
+Discovered By: Stephen P. Synnott
+
+====================================
+Name: Juliet
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 53.0 km
+Density: 1.3 g/cm³
+Orbital Period: 0.49307 days
+Mass: 5.6 × 10^17 kg
+Discovered By: Stephen P. Synnott
+
+====================================
+Name: Portia
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 70.0 km
+Density: 1.3 g/cm³
+Orbital Period: 0.5132 days
+Mass: 1.7 × 10^18 kg
+Discovered By: Stephen P. Synnott
+
+====================================
+Name: Rosalind
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 36.0 km
+Density: 1.3 g/cm³
+Orbital Period: 0.55846 days
+Mass: 0.25 × 10^17 kg
+Discovered By: Stephen P. Synnott
+
+====================================
+Name: Belinda
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 45.0 km
+Density: 1.3 g/cm³
+Orbital Period: 0.62353 days
+Mass: 4.9 × 10^17 kg
+Discovered By: Stephen P. Synnott
+
+====================================
+Name: Puck
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 81.0 km
+Density: 1.3 g/cm³
+Orbital Period: 0.76183 days
+Mass: 2.9 × 10^18 kg
+Discovered By: Stephen P. Synnott
+
+====================================
+Name: Caliban
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 36.0 km
+Density: 1.5 g/cm³
+Orbital Period: -579.5 days
+Mass: 2.5 × 10^17 kg
+Discovered By: Brett J. Gladman, Philip D. Nicholson, Joseph A. Burns, John J. Kavelaars
+
+====================================
+Name: Sycorax
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 75.0 km
+Density: 1.5 g/cm³
+Orbital Period: -1283.4 days
+Mass: 2.3 × 10^18 kg
+Discovered By: Philip D. Nicholson, Brett J. Gladman, Joseph A. Burns, John J. Kavelaars
+
+====================================
+Name: Prospero
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 25.0 km
+Density: 1.5 g/cm³
+Orbital Period: -1977.3 days
+Mass: 8.5 × 10^16 kg
+Discovered By: Matthew J. Holman, John J. Kavelaars, Brett J. Gladman, Jean-Marc Petit, Hans Scholl
+
+====================================
+Name: Setebos
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 24.0 km
+Density: 1.5 g/cm³
+Orbital Period: -2234.8 days
+Mass: 7.5 × 10^16 kg
+Discovered By: John J. Kavelaars, Brett J. Gladman, Matthew J. Holman, Jean-Marc Petit, Hans Scholl
+
+====================================
+Name: Stephano
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 16.0 km
+Density: 1.5 g/cm³
+Orbital Period: -676.5 days
+Mass: 2.2 × 10^16 kg
+Discovered By: Brett J. Gladman, Matthew J. Holman, John J. Kavelaars, Jean-Marc Petit, Hans Scholl
+
+====================================
+Name: Trinculo
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 9.0 km
+Density: 1.5 g/cm³
+Orbital Period: -758.1 days
+Mass: 3.9 × 10^15 kg
+Discovered By: Matthew J. Holman, John J. Kavelaars, Dan Milisavljevic
+
+====================================
+Name: Francisco
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 11.0 km
+Density: 1.5 g/cm³
+Orbital Period: -266.6 days
+Mass: 7.2 × 10^15 kg
+Discovered By: Matthew J. Holman, John J. Kavelaars, Dan Milisavljevic, Brett J. Gladman
+
+====================================
+Name: Margaret
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 10.0 km
+Density: 2.6 g/cm³
+Orbital Period: 1694.8 days
+Mass: 5.4 × 10^15 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: Ferdinand
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 10.0 km
+Density: 1.5 g/cm³
+Orbital Period: -2823.4 days
+Mass: 5.4 × 10^15 kg
+Discovered By: Matthew J. Holman, John J. Kavelaars, Dan Milisavljevic, Brett J. Gladman
+
+====================================
+Name: Perdita
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 13.0 km
+Density: 1.0 g/cm³
+Orbital Period: 0.638 days
+Mass: 1.8 × 10^19 kg
+Discovered By: Erich Karkoschka
+
+====================================
+Name: Mab
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 12.0 km
+Density: 1.0 g/cm³
+Orbital Period: 0.923 days
+Mass: 1.0 × 10^16 kg
+Discovered By: Mark R. Showalter, Jack J. Lissauer
+
+====================================
+Name: Cupid
+Type: Moon
+Orbits planet: uranus
+Mean Radius: 9.0 km
+Density: 1.0 g/cm³
+Orbital Period: 0.613 days
+Mass: 3.8 × 10^15 kg
+Discovered By: Mark R. Showalter, Jack J. Lissauer
+
+====================================
+Name: Triton
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 1353.4 km
+Gravity: 0.78 m/s²
+Density: 2.05 g/cm³
+Orbital Period: 5.87685 days
+Mass: 2.14 × 10^22 kg
+Discovered By: William Lassell
+
+====================================
+Name: Nereid
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 170.0 km
+Gravity: 0.071 m/s²
+Density: 1.5 g/cm³
+Orbital Period: 360.13619 days
+Mass: 3.0 × 10^19 kg
+Discovered By: Gerard Kuiper
+
+====================================
+Name: Naiad
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 33.0 km
+Gravity: 0.01 m/s²
+Density: 1.3 g/cm³
+Orbital Period: 0.2944 days
+Mass: 2.0 × 10^17 kg
+Discovered By: Richard J. Terrile
+
+====================================
+Name: Thalassa
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 41.0 km
+Gravity: 0.013 m/s²
+Density: 1.3 g/cm³
+Orbital Period: 0.31149 days
+Mass: 4.0 × 10^17 kg
+Discovered By: Richard J. Terrile
+
+====================================
+Name: Despina
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 75.0 km
+Gravity: 0.023 m/s²
+Density: 1.3 g/cm³
+Orbital Period: 0.33466 days
+Mass: 2.0 × 10^18 kg
+Discovered By: Stephen P. Synnott
+
+====================================
+Name: Galatea
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 88.0 km
+Gravity: 0.03 m/s²
+Density: 1.3 g/cm³
+Orbital Period: 0.42875 days
+Mass: 2.0 × 10^18 kg
+Discovered By: Stephen P. Synnott
+
+====================================
+Name: Larissa
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 97.0 km
+Gravity: 0.034 m/s²
+Density: 1.3 g/cm³
+Orbital Period: 0.55465 days
+Mass: 5.0 × 10^18 kg
+Discovered By: Harold J. Reitsema, William B. Hubbard, Larry A. Lebofsky, David J. Tholen
+
+====================================
+Name: Proteus
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 210.0 km
+Gravity: 0.075 m/s²
+Density: 1.3 g/cm³
+Orbital Period: 1.12232 days
+Mass: 5.0 × 10^19 kg
+Discovered By: Stephen P. Synnott, Bradford A. Smith
+
+====================================
+Name: Halimede
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 30.0 km
+Gravity: 0.01 m/s²
+Density: 1.5 g/cm³
+Orbital Period: 1879.7 days
+Mass: 2.0 × 10^17 kg
+Discovered By: Matthew J. Holman, John J. Kavelaars, Tommy Grav, Wesley C. Fraser, Dan Milisavljevic
+
+====================================
+Name: Psamathe
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 20.0 km
+Density: 1.5 g/cm³
+Orbital Period: 9115.9 days
+Mass: 2.0 × 10^16 kg
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: Sao
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 20.0 km
+Gravity: 0.01 m/s²
+Density: 1.5 g/cm³
+Orbital Period: 2914.1 days
+Mass: 1.0 × 10^17 kg
+Discovered By: Matthew J. Holman, John J. Kavelaars, Tommy Grav, Wesley C. Fraser, Dan Milisavljevic
+
+====================================
+Name: Laomedeia
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 20.0 km
+Gravity: 0.01 m/s²
+Density: 1.5 g/cm³
+Orbital Period: 3167.9 days
+Mass: 1.0 × 10^17 kg
+Discovered By: Matthew J. Holman, John J. Kavelaars, Tommy Grav, Wesley C. Fraser, Dan Milisavljevic
+
+====================================
+Name: Neso
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 30.0 km
+Density: 1.5 g/cm³
+Orbital Period: 9374.0 days
+Mass: 1.0 × 10^17 kg
+Discovered By: Matthew J. Holman
+
+====================================
+Name: Charon
+Type: Moon
+Orbits planet: pluton
+Mean Radius: 606.0 km
+Density: 1.702 g/cm³
+Orbital Period: 6.387 days
+Mass: 1.58 × 10^21 kg
+Discovered By: James W. Christy
+
+====================================
+Name: Nix
+Type: Moon
+Orbits planet: pluton
+Mean Radius: 44.0 km
+Density: 1.9 g/cm³
+Orbital Period: 24.854 days
+Mass: 4.5 × 10^16 kg
+Discovered By: Hubble Space Telescope Pluto Companion Search Team
+
+====================================
+Name: Hydra
+Type: Moon
+Orbits planet: pluton
+Mean Radius: 36.0 km
+Density: 1.9 g/cm³
+Orbital Period: 38.2 days
+Mass: 4.8 × 10^16 kg
+Discovered By: Hubble Space Telescope Pluto Companion Search Team
+
+====================================
+Name: Namaka
+Type: Moon
+Orbits planet: haumea
+Mean Radius: 85.0 km
+Density: 1.0 g/cm³
+Orbital Period: 18.27 days
+Mass: 1.79 × 10^18 kg
+Discovered By: Michael E. Brown
+
+====================================
+Name: Hiʻiaka
+Type: Moon
+Orbits planet: haumea
+Mean Radius: 160.0 km
+Density: 1.0 g/cm³
+Orbital Period: 49.12 days
+Mass: 1.78 × 10^19 kg
+Discovered By: Michael E. Brown
+
+====================================
+Name: Dysnomia
+Type: Moon
+Orbits planet: eris
+Mean Radius: 350.0 km
+Density: 1.0 g/cm³
+Orbital Period: 15.785 days
+Mass: 145.0 × 10^18 kg
+Discovered By: Michael E. Brown
+
+====================================
+Name: Dia
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Density: 1.0 g/cm³
+Orbital Period: 287.0 days
+Mass: 9.0 × 10^13 kg
+Discovered By: Scott S. Sheppard, David C. Jewitt
+
+====================================
+Name: S/2004 S 3
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Density: 1.0 g/cm³
+Orbital Period: 0.62 days
+Discovered By: Carl Murray
+
+====================================
+Name: S/2004 S 4
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Density: 1.0 g/cm³
+Orbital Period: 0.61 days
+Discovered By: Carl Murray
+
+====================================
+Name: S/2004 S 6
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.5 km
+Density: 1.0 g/cm³
+Orbital Period: 0.61 days
+Discovered By: Carolyn C. Porco
+
+====================================
+Name: S/2010 J 1
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 723.2 days
+Discovered By: Jacobson, Brozovic, Gladman, Alexandersen
+
+====================================
+Name: S/2010 J 2
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 0.5 km
+Density: 1.0 g/cm³
+Orbital Period: 588.1 days
+Discovered By: Christian Veillet
+
+====================================
+Name: 1 Ceres
+Type: Asteroid
+Mean Radius: 476.2 km
+Gravity: 0.28 m/s²
+Density: 2.161 g/cm³
+Escape Velocity: 510.0 m/s
+Orbital Period: 1681.63 days
+Mass: 9.393 × 10^20 kg
+Discovered By: Giuseppe Piazzi
+
+====================================
+Name: 6 Hebe
+Type: Asteroid
+Mean Radius: 92.3 km
+Density: 1.0 g/cm³
+Orbital Period: 1380.373 days
+Mass: 6.7 × 10^18 kg
+Discovered By: Karl Ludwig Hencke
+
+====================================
+Name: 47171 Lempo
+Type: Asteroid
+Mean Radius: 197.0 km
+Density: 1.0 g/cm³
+Orbital Period: 91678.0 days
+Discovered By: E. P. Rubenstein, L.-G. Strolger
+
+====================================
+Name: The Little Prince
+Type: Moon
+Orbits planet: eugenia
+Mean Radius: 13.0 km
+Density: 1.0 g/cm³
+Orbital Period: 4.76 days
+Mass: 1.2 × 10^15 kg
+Discovered By: W. J. Merline, L. M. Close, C. Dumas, C. R. Chapman, F. Roddier, F. Menard, D. C. Slater, G. Duvert, J. C. Shelton, T. Morgan
+
+====================================
+Name: 762 Pulcova
+Type: Asteroid
+Mean Radius: 78.6 km
+Density: 1.0 g/cm³
+Orbital Period: 2049.475 days
+Mass: 2.6 × 10^18 kg
+Discovered By: G. N. Neujmin
+
+====================================
+Name: 4179 Toutatis
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 1463.14 days
+Mass: 50.0 × 10^12 kg
+Discovered By: Christian Pollas
+
+====================================
+Name: 50000 Quaoar
+Type: Asteroid
+Mean Radius: 675.0 km
+Density: 1.0 g/cm³
+Orbital Period: 104347.575 days
+Mass: 1.0 × 10^21 kg
+Discovered By: Chadwick Trujillo, Michael E. Brown
+
+====================================
+Name: 2867 Šteins
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 1327.3582 days
+Discovered By: N. S. Tchernykh
+
+====================================
+Name: 136199 Eris
+Type: Dwarf Planet
+Mean Radius: 1163.0 km
+Gravity: 0.82 m/s²
+Density: 2.52 g/cm³
+Escape Velocity: 1380.0 m/s
+Orbital Period: 203830.0 days
+Mass: 1.66 × 10^22 kg
+Discovered By: Michael E. Brown, Chadwick Trujillo, David L. Rabinowitz
+
+====================================
+Name: 5 Astraea
+Type: Asteroid
+Mean Radius: 59.5 km
+Density: 1.0 g/cm³
+Orbital Period: 1507.279 days
+Mass: 1.2 × 10^18 kg
+Discovered By: Karl Ludwig Hencke
+
+====================================
+Name: 5145 Pholus
+Type: Asteroid
+Mean Radius: 95.0 km
+Density: 1.0 g/cm³
+Orbital Period: 33711.0 days
+Mass: 7.5 × 10^18 kg
+Discovered By: David Rabinowitz / Spacewatch
+
+====================================
+Name: 4769 Castalia
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 400.428 days
+Mass: 1.3 × 10^12 kg
+Discovered By: Eleanor F. Helin
+
+====================================
+Name: Remus
+Type: Moon
+Orbits planet: sylvia
+Mean Radius: 7.0 km
+Density: 1.0 g/cm³
+Orbital Period: 1.37 days
+Mass: 2.0 × 10^14 kg
+Discovered By: Franck Marchis, Pascal Descamps, Daniel Hestroffer, Jérome Berthier
+
+====================================
+Name: 624 Hektor
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 4358.521 days
+Mass: 1.4 × 10^19 kg
+Discovered By: August Kopff
+
+====================================
+Name: 216 Kleopatra
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 1707.0 days
+Mass: 3.0 × 10^18 kg
+Discovered By: Johann Palisa
+
+====================================
+Name: 3753 Cruithne
+Type: Asteroid
+Mean Radius: 2.5 km
+Density: 1.0 g/cm³
+Orbital Period: 364.019 days
+Mass: 1.3 × 10^14 kg
+Discovered By: J. Duncan Waldron, Giovanni de Sanctis, Richard M. West
+
+====================================
+Name: 3 Juno
+Type: Asteroid
+Mean Radius: 120.0 km
+Density: 1.0 g/cm³
+Orbital Period: 1593.926 days
+Mass: 2.82 × 10^19 kg
+Discovered By: Karl L. Harding
+
+====================================
+Name: 10 Hygiea
+Type: Asteroid
+Mean Radius: 203.6 km
+Density: 1.0 g/cm³
+Orbital Period: 2029.776 days
+Mass: 1.0 × 10^20 kg
+Discovered By: Annibale de Gasparis
+
+====================================
+Name: 21 Lutetia
+Type: Asteroid
+Mean Radius: 42.5 km
+Density: 1.0 g/cm³
+Orbital Period: 1387.902 days
+Mass: 1.7 × 10^18 kg
+Discovered By: H. M. S. Goldschmidt
+
+====================================
+Name: 253 Mathilde
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 1572.491 days
+Mass: 1.03 × 10^17 kg
+Discovered By: Johann Palisa
+
+====================================
+Name: Uranus
+Type: Planet
+This body is a planet.
+Mean Radius: 25362.0 km
+Gravity: 8.87 m/s²
+Density: 1.27 g/cm³
+Escape Velocity: 21380.0 m/s
+Orbital Period: 30685.4 days
+Mass: 8.68127 × 10^25 kg
+Discovered By: William Herschel
+
+====================================
+Name: 7 Iris
+Type: Asteroid
+Mean Radius: 100.0 km
+Density: 1.0 g/cm³
+Orbital Period: 1346.628 days
+Mass: 8.4 × 10^18 kg
+Discovered By: John Russell Hind
+
+====================================
+Name: 433 Eros
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 643.219 days
+Mass: 7.2 × 10^15 kg
+Discovered By: Gustav Witt
+
+====================================
+Name: Vanth
+Type: Moon
+Orbits planet: orcus
+Mean Radius: 434.0 km
+Density: 1.0 g/cm³
+Orbital Period: 9.539 days
+Mass: 3.6 × 10^19 kg
+Discovered By: Michael E. Brown, T.A. Suer
+
+====================================
+Name: 90377 Sedna
+Type: Asteroid
+Mean Radius: 497.0 km
+Density: 1.0 g/cm³
+Orbital Period: 4154395.0 days
+Mass: 1.0 × 10^21 kg
+Discovered By: Chadwick Trujillo, Michael E. Brown, David L. Rabinowitz
+
+====================================
+Name: 10199 Chariklo
+Type: Asteroid
+Mean Radius: 248.0 km
+Density: 1.0 g/cm³
+Orbital Period: 23084.0 days
+Discovered By: Spacewatch
+
+====================================
+Name: 87 Sylvia
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 2381.639 days
+Mass: 1.478 × 10^19 kg
+Discovered By: Norman Robert Pogson
+
+====================================
+Name: (243) Ida I Dactyl
+Type: Moon
+Orbits planet: ida
+Density: 1.0 g/cm³
+Orbital Period: 1.54 days
+Discovered By: Ann Harch
+
+====================================
+Name: 90482 Orcus
+Type: Asteroid
+Mean Radius: 473.0 km
+Density: 1.0 g/cm³
+Orbital Period: 89606.0 days
+Mass: 7.0 × 10^20 kg
+Discovered By: Michael E. Brown, Chadwick Trujillo, David L. Rabinowitz
+
+====================================
+Name: Pluto
+Type: Dwarf Planet
+Mean Radius: 1188.3 km
+Gravity: 0.62 m/s²
+Density: 1.89 g/cm³
+Escape Velocity: 1210.0 m/s
+Orbital Period: 90465.0 days
+Mass: 1.303 × 10^22 kg
+Discovered By: Clyde W. Tombaugh
+
+====================================
+Name: 5335 Damocles
+Type: Asteroid
+Mean Radius: 5.0 km
+Density: 1.0 g/cm³
+Orbital Period: 14880.9 days
+Discovered By: Robert H. McNaught
+
+====================================
+Name: Romulus
+Type: Moon
+Orbits planet: sylvia
+Mean Radius: 10.8 km
+Density: 1.0 g/cm³
+Orbital Period: 3.6496 days
+Discovered By: Michael E. Brown, Jean-Luc Margot
+
+====================================
+Name: Alexhelios
+Type: Moon
+Orbits planet: kleopatra
+Mean Radius: 6.9 km
+Density: 1.0 g/cm³
+Orbital Period: 2.3 days
+Discovered By: F. Marchis, P. Descamps, J. Berthier, F. Vachier, J. P. Emery
+
+====================================
+Name: Cleoselene
+Type: Moon
+Orbits planet: kleopatra
+Mean Radius: 8.9 km
+Density: 1.0 g/cm³
+Orbital Period: 1.8 days
+Discovered By: F. Marchis, P. Descamps, J. Berthier, F. Vachier, J. P. Emery
+
+====================================
+Name: 8 Flora
+Type: Asteroid
+Mean Radius: 67.7 km
+Density: 1.0 g/cm³
+Orbital Period: 1192.956 days
+Mass: 2.6 × 10^18 kg
+Discovered By: John Russell Hind
+
+====================================
+Name: 2060 Chiron
+Type: Asteroid
+Mean Radius: 83.0 km
+Density: 1.0 g/cm³
+Orbital Period: 18429.0 days
+Mass: 2.0 × 10^18 kg
+Discovered By: Charles T. Kowal
+
+====================================
+Name: 5261 Eureka
+Type: Asteroid
+Mean Radius: 1.2 km
+Density: 1.0 g/cm³
+Orbital Period: 686.829 days
+Discovered By: David H. Levy
+
+====================================
+Name: 588 Achilles
+Type: Asteroid
+Mean Radius: 67.8 km
+Density: 1.0 g/cm³
+Orbital Period: 4320.803 days
+Mass: 2.6 × 10^18 kg
+Discovered By: Max Wolf
+
+====================================
+Name: Weywot
+Type: Moon
+Orbits planet: quaoar
+Mean Radius: 170.0 km
+Density: 1.0 g/cm³
+Orbital Period: 12.438 days
+Discovered By: Michael E. Brown, T.A. Suer
+
+====================================
+Name: 28978 Ixion
+Type: Asteroid
+Mean Radius: 379.5 km
+Density: 1.0 g/cm³
+Orbital Period: 90717.0 days
+Mass: 2.3 × 10^20 kg
+Discovered By: Deep Ecliptic Survey
+
+====================================
+Name: Neptune
+Type: Planet
+This body is a planet.
+Mean Radius: 24622.0 km
+Gravity: 11.15 m/s²
+Density: 1.638 g/cm³
+Escape Velocity: 23560.0 m/s
+Orbital Period: 60189.0 days
+Mass: 1.02413 × 10^26 kg
+Discovered By: Urbain Le Verrier, John Couch Adams, Johann Galle
+
+====================================
+Name: Shoemaker-Levy 9
+Type: Comet
+Mean Radius: 1.2 km
+Density: 1.0 g/cm³
+Discovered By: Carolyn, Eugene M. Shoemaker, David Levy
+
+====================================
+Name: 9 Metis
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 1346.815 days
+Mass: 4.6 × 10^18 kg
+Discovered By: Andrew Graham
+
+====================================
+Name: 136108 Haumea
+Type: Dwarf Planet
+Gravity: 0.401 m/s²
+Density: 2.6 g/cm³
+Escape Velocity: 809.0 m/s
+Orbital Period: 103774.0 days
+Mass: 4.006 × 10^21 kg
+Discovered By: Michael E. Brown, José Luis Ortiz Moreno
+
+====================================
+Name: 7066 Nessus
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 44561.0 days
+Discovered By: Spacewatch
+
+====================================
+Name: 25143 Itokawa
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 556.38 days
+Mass: 3.5 × 10^10 kg
+Discovered By: LINEAR
+
+====================================
+Name: 10370 Hylonome
+Type: Asteroid
+Mean Radius: 70.0 km
+Density: 1.0 g/cm³
+Orbital Period: 44561.0 days
+Discovered By: David C. Jewitt, Jane X. Luu
+
+====================================
+Name: 45 Eugenia
+Type: Asteroid
+Mean Radius: 107.3 km
+Density: 1.0 g/cm³
+Orbital Period: 1638.654 days
+Mass: 6.21 × 10^18 kg
+Discovered By: Hermann Goldschmidt
+
+====================================
+Name: (308933) 2006 SQ372
+Type: Asteroid
+Mean Radius: 55.0 km
+Density: 1.0 g/cm³
+Orbital Period: 11800000.0 days
+Discovered By: Andrew Becker, Nathan Kaib
+
+====================================
+Name: 2 Pallas
+Type: Asteroid
+Mean Radius: 545.0 km
+Density: 1.0 g/cm³
+Orbital Period: 1685.927 days
+Mass: 2.11 × 10^20 kg
+Discovered By: Heinrich Olbers
+
+====================================
+Name: 8405 Asbolus
+Type: Asteroid
+Mean Radius: 33.0 km
+Density: 1.0 g/cm³
+Orbital Period: 27796.0 days
+Discovered By: James V. Scotti, Robert Jedicke/ Spacewatch
+
+====================================
+Name: 20000 Varuna
+Type: Asteroid
+Mean Radius: 330.0 km
+Density: 1.0 g/cm³
+Orbital Period: 103440.0 days
+Mass: 1.55 × 10^20 kg
+Discovered By: Robert S. McMillan Spacewatch
+
+====================================
+Name: 4 Vesta
+Type: Asteroid
+Mean Radius: 265.0 km
+Density: 1.0 g/cm³
+Orbital Period: 1325.886 days
+Mass: 2.7 × 10^20 kg
+Discovered By: H. W. Olbers
+
+====================================
+Name: 243 Ida
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 1767.564 days
+Mass: 1.0 × 10^17 kg
+Discovered By: Johann Palisa
+
+====================================
+Name: Comet Hyakutake
+Type: Comet
+Mean Radius: 4.2 km
+Density: 1.0 g/cm³
+Discovered By: Yuji Hyakutake
+
+====================================
+Name: 951 Gaspra
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 1199.479 days
+Mass: 1.0 × 10^16 kg
+Discovered By: Grigori Neujmin
+
+====================================
+Name: 15760 Albion
+Type: Asteroid
+Mean Radius: 60.0 km
+Density: 1.0 g/cm³
+Orbital Period: 105757.0 days
+Mass: 9.0 × 10^17 kg
+Discovered By: David C. Jewitt, Jane X. Luu
+
+====================================
+Name: 136472 Makemake
+Type: Dwarf Planet
+Mean Radius: 725.0 km
+Gravity: 0.5 m/s²
+Density: 1.4 g/cm³
+Escape Velocity: 800.0 m/s
+Orbital Period: 112897.0 days
+Mass: 4.4 × 10^21 kg
+Discovered By: Michael E. Brown, Chadwick Trujillo, David L. Rabinowitz
+
+====================================
+Name: Halley's Comet
+Type: Comet
+Mean Radius: 15.0 km
+Density: 1.0 g/cm³
+Mass: 2.2 × 10^14 kg
+
+====================================
+Name: Jupiter
+Type: Planet
+This body is a planet.
+Mean Radius: 69911.0 km
+Gravity: 24.79 m/s²
+Density: 1.3262 g/cm³
+Escape Velocity: 60200.0 m/s
+Orbital Period: 4332.589 days
+Mass: 1.89819 × 10^27 kg
+
+====================================
+Name: Mars
+Type: Planet
+This body is a planet.
+Mean Radius: 3389.5 km
+Gravity: 3.71 m/s²
+Density: 3.9341 g/cm³
+Escape Velocity: 5030.0 m/s
+Orbital Period: 686.98 days
+Mass: 6.41712 × 10^23 kg
+
+====================================
+Name: Mercury
+Type: Planet
+This body is a planet.
+Mean Radius: 2439.4 km
+Gravity: 3.7 m/s²
+Density: 5.4291 g/cm³
+Escape Velocity: 4250.0 m/s
+Orbital Period: 87.969 days
+Mass: 3.30114 × 10^23 kg
+
+====================================
+Name: Saturn
+Type: Planet
+This body is a planet.
+Mean Radius: 58232.0 km
+Gravity: 10.44 m/s²
+Density: 0.6871 g/cm³
+Escape Velocity: 36090.0 m/s
+Orbital Period: 10759.22 days
+Mass: 5.68336 × 10^26 kg
+
+====================================
+Name: Sun
+Type: Star
+Mean Radius: 695508.0 km
+Density: 1.41 g/cm³
+Mass: 1.989 × 10^30 kg
+
+====================================
+Name: Earth
+Type: Planet
+This body is a planet.
+Mean Radius: 6371.0084 km
+Gravity: 9.8 m/s²
+Density: 5.5136 g/cm³
+Escape Velocity: 11190.0 m/s
+Orbital Period: 365.256 days
+Mass: 5.97237 × 10^24 kg
+
+====================================
+Name: Venus
+Type: Planet
+This body is a planet.
+Mean Radius: 6051.8 km
+Gravity: 8.87 m/s²
+Density: 5.243 g/cm³
+Escape Velocity: 10360.0 m/s
+Orbital Period: 224.701 days
+Mass: 4.86747 × 10^24 kg
+
+====================================
+Name: Kerberos
+Type: Moon
+Orbits planet: pluton
+Mean Radius: 25.0 km
+Density: 1.0 g/cm³
+Orbital Period: 32.167 days
+Mass: 1.64 × 10^16 kg
+Discovered By: Télescope spatial Hubble - Pluto Companion Search Team
+
+====================================
+Name: S/2011 J 1
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 0.5 km
+Density: 1.0 g/cm³
+Orbital Period: 580.7 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2011 J 2
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 0.5 km
+Density: 1.0 g/cm³
+Orbital Period: 726.8 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: Styx
+Type: Moon
+Orbits planet: pluton
+Mean Radius: 20.0 km
+Density: 1.0 g/cm³
+Orbital Period: 20.16 days
+Mass: 7.5 × 10^15 kg
+Discovered By: Télescope spatial Hubble - Pluto Companion Search Team - Mark Showalter
+
+====================================
+Name: Hippocamp
+Type: Moon
+Orbits planet: neptune
+Mean Radius: 17.0 km
+Density: 1.0 g/cm³
+Orbital Period: 0.95 days
+Mass: 3.0 × 10^16 kg
+Discovered By: Mark Showalter
+
+====================================
+Name: S/2015 (136472) 1
+Type: Moon
+Orbits planet: makemake
+Mean Radius: 75.0 km
+Density: 1.0 g/cm³
+Orbital Period: 12.4 days
+Discovered By: Alex H. Parker, Marc W. Buie, M. Grundy, Keith S. Noll
+
+====================================
+Name: S/2017 J 1
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Density: 1.0 g/cm³
+Orbital Period: 734.2 days
+Discovered By: Scott Sheppard
+
+====================================
+Name: S/2016 J 1
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 0.5 km
+Density: 1.0 g/cm³
+Orbital Period: 602.7 days
+Discovered By: Scott Sheppard
+
+====================================
+Name: Valetudo
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 0.5 km
+Density: 1.0 g/cm³
+Orbital Period: 533.0 days
+Discovered By: Scott Sheppard
+
+====================================
+Name: S/2017 J 2
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 723.0 days
+Discovered By: Scott Sheppard
+
+====================================
+Name: S/2017 J 3
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 606.0 days
+Discovered By: Scott Sheppard
+
+====================================
+Name: Pandia
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.5 km
+Density: 1.0 g/cm³
+Orbital Period: 252.0 days
+Discovered By: Scott Sheppard
+
+====================================
+Name: S/2017 J 5
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 719.0 days
+Discovered By: Scott Sheppard
+
+====================================
+Name: S/2017 J 6
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 683.0 days
+Discovered By: Scott Sheppard
+
+====================================
+Name: S/2017 J 7
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Density: 1.0 g/cm³
+Orbital Period: 603.0 days
+Discovered By: Scott Sheppard
+
+====================================
+Name: S/2017 J 8
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 0.5 km
+Density: 1.0 g/cm³
+Orbital Period: 720.0 days
+Discovered By: Scott Sheppard
+
+====================================
+Name: S/2017 J 9
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.5 km
+Density: 1.0 g/cm³
+Orbital Period: 639.0 days
+Discovered By: Scott Sheppard
+
+====================================
+Name: Ersa
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.5 km
+Density: 1.0 g/cm³
+Orbital Period: 252.0 days
+Discovered By: Scott Sheppard
+
+====================================
+Name: Arrokoth
+Type: Asteroid
+Density: 1.0 g/cm³
+Orbital Period: 107847.0 days
+Discovered By: Télescope spatial Hubble
+
+====================================
+Name: 101955 Bennu
+Type: Asteroid
+Mean Radius: 250.0 km
+Density: 1.0 g/cm³
+Orbital Period: 436.604 days
+Discovered By: LINEAR
+
+====================================
+Name: Angrboda
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1080.4 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: S/2004 S 21
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1365.0 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: Gridr
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -990.0 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: Skrymir
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1164.3 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: S/2004 S 24
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: 1317.6 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: Gerd
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1095.0 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: S/2004 S 26
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1624.2 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: Eggther
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1033.0 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: S/2004 S 28
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1197.2 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: S/2004 S 29
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: 858.77 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: Beli
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1084.1 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: S/2004 S 31
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: 853.8 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: Gunnlod
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1175.3 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: Thiazzi
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1361.5 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: S/2004 S 34
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1412.5 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: Alvaldi
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1208.1 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: S/2004 S 36
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1354.2 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: S/2004 S 37
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -752.88 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: Geirrod
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1295.8 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: S/2004 S 39
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.0 km
+Orbital Period: -1277.5 days
+Discovered By: S. Sheppard, D. Jewitt, J. Kleyna
+
+====================================
+Name: C/2020 F3 (NEOWISE)
+Type: Comet
+Orbital Period: 6800.0 days
+Discovered By: Wide-Field Infrared Survey Explorer
+
+====================================
+Name: S/2004 S 41
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -914.61 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2003 J 24
+Type: Moon
+Orbits planet: jupiter
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2004 S 40
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.0 km
+Orbital Period: -764.6 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna
+
+====================================
+Name: S/2004 S 42
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -925.91 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2004 S 43
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -980.08 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2004 S 44
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.5 km
+Orbital Period: -1026.16 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman
+
+====================================
+Name: S/2004 S 45
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1038.7 days
+Discovered By: D.C. Jewitt, S.S. Sheppard, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2004 S 46
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1107.58 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2004 S 47
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -762.49 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2004 S 48
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1242.4 days
+Discovered By: D.C. Jewitt, S.S. Sheppard, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2004 S 49
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1264.25 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2004 S 50
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1260.44 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2004 S 51
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1519.43 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2004 S 52
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1633.98 days
+Discovered By: D.C. Jewitt, S.S. Sheppard, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2004 S 53
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1342.44 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2005 S 4
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.5 km
+Orbital Period: 450.22 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2005 S 5
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1177.82 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2006 S 10
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -983.14 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2006 S 11
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1042.28 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2006 S 12
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: 1035.05 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2006 S 13
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1060.63 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2006 S 14
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1152.68 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2006 S 15
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1213.96 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman
+
+====================================
+Name: S/2006 S 16
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1207.52 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2006 S 17
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1264.58 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman
+
+====================================
+Name: S/2006 S 18
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1298.4 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2006 S 19
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1389.33 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2006 S 20
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.5 km
+Orbital Period: -567.27 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2007 S 5
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -746.88 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2007 S 6
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -949.5 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2007 S 7
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -754.29 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna
+
+====================================
+Name: S/2007 S 8
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: 836.9 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2007 S 9
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1078.07 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman
+
+====================================
+Name: S/2019 S 1
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Orbital Period: 445.51 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, C. Veillet, M. Alexandersen
+
+====================================
+Name: S/2019 S 10
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1123.04 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2019 S 11
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1115.0 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2019 S 12
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1138.85 days
+Discovered By: E.J. Ashton, B.J. Gladman
+
+====================================
+Name: S/2019 S 13
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1144.92 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2019 S 14
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: 893.14 days
+Discovered By: E.J. Ashton, B.J. Gladman
+
+====================================
+Name: S/2019 S 15
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1161.54 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2019 S 16
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1341.17 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2019 S 17
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1291.39 days
+Discovered By: S.S. Sheppard, , D.C. Jewitt, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2019 S 18
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1327.06 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2019 S 19
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1318.05 days
+Discovered By: E.J. Ashton, B.J. Gladman
+
+====================================
+Name: S/2019 S 2
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Orbital Period: -799.82 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2019 S 20
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Orbital Period: -1375.45 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2019 S 21
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1636.32 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2019 S 3
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -837.74 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2019 S 4
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -904.26 days
+Discovered By: E.J. Ashton, B.J. Gladman
+
+====================================
+Name: S/2019 S 5
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -990.38 days
+Discovered By: E.J. Ashton, B.J. Gladman
+
+====================================
+Name: S/2019 S 6
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: 916.7 days
+Discovered By: E.J. Ashton, B.J. Gladman
+
+====================================
+Name: S/2019 S 7
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1080.29 days
+Discovered By: E.J. Ashton, B.J. Gladman
+
+====================================
+Name: S/2019 S 8
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1088.68 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2019 S 9
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1093.11 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, E.J. Ashton, B.J. Gladman
+
+====================================
+Name: S/2020 S 1
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: 451.1 days
+Discovered By: S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2020 S 10
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1527.22 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2020 S 2
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -897.6 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2020 S 3
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: 907.99 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2020 S 4
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: 926.92 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2020 S 5
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: 933.88 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2020 S 6
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1168.86 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2020 S 7
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -861.7 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2020 S 8
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 1.5 km
+Orbital Period: -1228.12 days
+Discovered By: S.S Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2020 S 9
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 2.0 km
+Orbital Period: -1534.97 days
+Discovered By: E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen
+
+====================================
+Name: S/2006 S 9
+Type: Moon
+Orbits planet: saturne
+Mean Radius: 3.0 km
+Orbital Period: -647.89 days
+Discovered By: S.S. Sheppard
+
+====================================
+Name: S/2011 J 3
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.5 km
+Orbital Period: 259.84 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2016 J 3
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Orbital Period: -713.64 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2016 J 4
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Orbital Period: -727.01 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2018 J 2
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.5 km
+Orbital Period: 249.92 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2018 J 3
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Orbital Period: -747.02 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2018 J 4
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Orbital Period: 427.63 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2021 J 1
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Orbital Period: -627.14 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2021 J 2
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Orbital Period: -625.14 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2021 J 3
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 2.0 km
+Orbital Period: -618.33 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2021 J 4
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Orbital Period: -728.28 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2021 J 5
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Orbital Period: -747.74 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2021 J 6
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Orbital Period: -720.97 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2022 J 1
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Orbital Period: -738.33 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2022 J 2
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Orbital Period: -781.56 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2022 J 3
+Type: Moon
+Orbits planet: jupiter
+Mean Radius: 1.0 km
+Orbital Period: -630.67 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2023 U 1
+Type: Moon
+Orbits planet: uranus
+Orbital Period: 1.86386 days
+Discovered By: Scott S. Sheppard
+
+====================================
+Name: S/2017 J 11
+Type: Moon
+Orbits planet: jupiter
+Orbital Period: -712.38 days
+Mass: 4.2 × 10^12 kg
+Discovered By: S. S. Sheppard, P. Senchyna
+
+====================================
+Name: S/2005 U 1
+Type: Moon
+Orbits planet: uranus
+Orbital Period: 0.402 days
+Discovered By: Maryame El Moutamid
+
+====================================
+Name: S/2021 N 1
+Type: Moon
+Orbits planet: neptune
+Orbital Period: 10036.651 days
+Discovered By: Scott S. Sheppard, David J. Tholen, Chad Trujillo, Patryk S. Lykawka
+
+====================================
+Name: S/2002 N 5
+Type: Moon
+Orbits planet: neptune
+Orbital Period: 3156.556 days
+Discovered By: Matthew Holman, John J. Kavelaars, Tommy Grav, Wesley Fraser
+
+====================================
+Name: S/2017 J 10
+Type: Moon
+Orbits planet: jupiter
+Orbital Period: -625.15 days
+Mass: 4.2 × 10^12 kg
+Discovered By: S. S. Sheppard.
+
+====================================
+Name: (162173) Ryugu
+Type: Asteroid
+Orbital Period: 473.86 days
+Discovered By: LINEAR
+
+====================================
+Name: S/2019 S 22
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 447.31 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 23
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 447.8 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 26
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 454.51 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 32
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 880.08 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 35
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 934.06 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 37
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1054.4 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 41
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1455.81 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 44
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1572.74 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 11
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 448.35 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 12
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 450.27 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 13
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 454.6 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 16
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 836.55 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 17
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 833.41 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 19
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 891.98 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 20
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 911.64 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 22
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 995.61 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 23
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1023.66 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 24
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1106.53 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 30
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1164.79 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 31
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1293.17 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 33
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1338.98 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 34
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1291.52 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 38
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1354.35 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 39
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1449.05 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 41
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1511.1 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 42
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1453.72 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 43
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1586.24 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 44
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1753.36 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 1
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 442.99 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 2
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 449.12 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 3
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 873.04 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 5
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1476.73 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 6
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 436.07 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 7
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 474.03 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 8
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 640.29 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 9
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 693.36 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 10
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 715.36 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 13
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 780.05 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 16
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 845.58 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 17
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 852.5 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 18
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 844.33 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 19
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 861.64 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 20
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 901.92 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 21
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 948.97 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 22
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 933.97 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 23
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 994.23 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 24
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1004.22 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 25
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1035.16 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 27
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1025.54 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 29
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1118.63 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 30
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1162.14 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 32
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1139.03 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 33
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1116.27 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 34
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1166.33 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 42
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1251.98 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 43
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1344.65 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 45
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1338.11 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 46
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1508.36 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 47
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1624.59 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 49
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1221.77 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 50
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 872.57 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2004 S 54
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 446.42 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2004 S 55
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 449.63 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2004 S 56
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 596.13 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2004 S 57
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 910.59 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2004 S 58
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 914.46 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2004 S 59
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 985.45 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2004 S 60
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1010.44 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2004 S 61
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1127.53 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2005 S 6
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 896.45 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2005 S 7
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 957.36 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2006 S 21
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 689.14 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2006 S 22
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 695.44 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2006 S 23
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 914.89 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2006 S 24
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 912.4 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2006 S 25
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 930.69 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2006 S 26
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 951.35 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2006 S 27
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1010.55 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2006 S 28
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1248.46 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2006 S 29
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1558.48 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2007 S 10
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 453.26 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2007 S 11
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 871.95 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 24
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 452.11 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 25
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 448.87 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 27
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 768.34 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 29
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 852.85 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 31
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 885.96 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 33
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 972.41 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 34
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 925.57 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 40
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1436.04 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 42
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1375.15 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 43
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1673.46 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 26
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1180.37 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 27
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1189.9 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 28
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 877.99 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 30
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 888.77 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 36
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1062.04 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 38
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1247.99 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2019 S 39
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1400.28 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 14
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 761.16 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 15
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 815.52 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 18
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 885.15 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 21
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 950.01 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 25
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1115.85 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 28
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1261.08 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 29
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1213.16 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 32
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1168.58 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 35
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1325.9 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 36
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1325.46 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 37
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1321.82 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2020 S 40
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1328.86 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 4
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 897.55 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 11
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 688.71 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 12
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 741.97 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 14
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 840.04 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 15
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 868.77 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 26
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1080.53 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 28
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1058.58 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 31
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1153.31 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 35
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1215.99 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 36
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1206.38 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 37
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1214.09 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 38
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1205.78 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 39
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1224.82 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 40
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1244.84 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 41
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1246.28 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 44
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1591.27 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: S/2023 S 48
+Type: Moon
+Orbits planet: saturne
+Orbital Period: 1090.97 days
+Discovered By: Ashton, Gladman, Mike Alexandersen, Jean-Marc Petit
+
+====================================
+Name: (16) Psyche
+Type: Asteroid
+Escape Velocity: 0.1339 m/s
+Orbital Period: 1823.115 days
+Mass: 1.7 × 10^19 kg
+Discovered By: Annibale De Gasparis
+
+====================================
+Name: Tempel 1
+Type: Comet
+Orbital Period: 5.58 days
+Discovered By: Ernst Wilhelm Tempel
+
+====================================
+Name: 
+Type: Comet
+Orbital Period: 2350.6 days
+Mass: 1.0 × 10^13 kg
+Discovered By: Klim Tchourioumov, Svetlana Guérassimenko
+
+====================================
+Name: 
+Type: Asteroid
+Orbital Period: 1344.0 days
+Discovered By: Schelte J. Bus
+
+====================================
+Name: 
+Type: Comet
+Orbital Period: 2500.0 days
+Discovered By: Alphonse Louis Nicolas Borrelly
+
+====================================
+Name: 
+Type: Asteroid
+Orbital Period: 200269.0 days
+Discovered By: M. E. Schwamb, M. E. Brown, D. L. Rabinowitz
+
+====================================
+Name: 
+Type: Moon
+Orbits planet: gonggong
+Discovered By: Gábor Marton, Csaba Kiss et Thomas Müller
+
+====================================
+Name: 
+Type: Moon
+Orbits planet: didymos
+Mass: 4.841 × 10^9 kg
+
+====================================
+Name: 
+Type: Asteroid
+Orbital Period: 770.16 days
+Mass: 5.228 × 10^11 kg
+Discovered By:  Spacewatch
+
+====================================
+Name: 
+Type: Asteroid
+Gravity: 0.00042 m/s²
+Escape Velocity: 0.00079 m/s
+Orbital Period: 971.635 days
+Mass: 3.5 × 10^12 kg
+Discovered By: Eugène Joseph Delporte
+
+====================================
+Name: 
+Type: Asteroid
+Gravity: 0.0005 m/s²
+Escape Velocity: 0.0009 m/s
+Orbital Period: 651.543 days
+Mass: 5.1 × 10^12 kg
+Discovered By: Karl Wilhelm Reinmuth
+
+====================================
+Name: 
+Type: Asteroid
+Orbital Period: 233.026 days
+Mass: 1.0 × 10^12 kg
+Discovered By: LINEAR
+
+====================================
+Name: Aten
+Type: Asteroid
+Gravity: 0.00025 m/s²
+Density: 2000.0 g/cm³
+Orbital Period: 347.168 days
+Mass: 7.6 × 10^11 kg
+Discovered By: Eleanor Francis Helin
+
+====================================
+Name: 
+Type: Asteroid
+Orbital Period: 151.0 days
+Discovered By: Zwicky Transient Facility
+
