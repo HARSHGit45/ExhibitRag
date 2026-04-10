@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_groq import ChatGroq
 
 from langchain_core.prompts import ChatPromptTemplate
@@ -118,5 +118,4 @@ def health_check():
 
 if __name__ == "__main__":
     import uvicorn
-    port = int(os.getenv("PORT", 8000))
-    uvicorn.run(app, host="0.0.0.0", port=port)
+    uvicorn.run(app, host="0.0.0.0", port=8000, log_level="info")

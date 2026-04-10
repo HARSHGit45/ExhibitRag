@@ -4,6 +4,7 @@ langchain==1.2.9
 langchain-community==0.4.1
 langchain-core==1.2.9
 langchain-groq==1.1.2
+langchain-huggingface==0.2.2
 faiss-cpu==1.13.2
 sentence-transformers==5.2.2
 python-dotenv==1.2.1
